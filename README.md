@@ -1,2 +1,4 @@
-# gary-portfolio
-Data Science Portfolio
+# Gary Rustandi
+
+Welcome to my portfolio! 
+
