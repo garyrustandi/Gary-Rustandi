@@ -16,10 +16,12 @@ Skills, Education, and Certification:
 4. Master of Business Administration (MBA)
 5. Certified FMVA (Financial Modelling & Valuation Analyst)
 
-Projects:
+Projects 1:
 [**Boat Listing View Prediction**](https://github.com/garyrustandi/boat-view-prediction) 
 
 **Goal:** predict the number of boat listing views so that we can filter out which boat to be viewed. Furthermore, we also can choose important features to be included in the survey.
 
 Data management includes splitting columns, handling missing data, handling outliers, and removing unnecessary data. The best result is achieved through Random Forest Regression.
 
+Projects 2:
+Stay tuned!
