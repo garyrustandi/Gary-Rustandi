@@ -16,12 +16,17 @@ Skills, Education, and Certification:
 4. Master of Business Administration (MBA)
 5. Certified FMVA (Financial Modelling & Valuation Analyst)
 
-Projects 1:
-[**Boat Listing View Prediction**](https://github.com/garyrustandi/boat-view-prediction) 
+Project 1:
+[**Regression with Python: Boat Listing View Prediction**](https://github.com/garyrustandi/boat-view-prediction) 
 
-**Goal:** predict the number of boat listing views so that we can filter out which boat to be viewed. Furthermore, we also can choose important features to be included in the survey.
+**Goal:** Predict the number of boat listing views so that we can filter out which boat to be viewed. Furthermore, we also can choose important features to be included in the survey.
 
 Data management includes splitting columns, handling missing data, handling outliers, and removing unnecessary data. The best result is achieved through Random Forest Regression.
 
-Projects 2:
-Stay tuned!
+Project 2:
+[**Classification with R: Heart Attack Prediction**](https://github.com/garyrustandi/heart-attack) 
+
+**Goal:** Predict the chance of heart attack so that patients, doctors, and insurance agents can anticipate the heart attack beforehand. 
+
+The best result is achieved through Random Forest Regressor. The best roc auc score is 0.95
+
