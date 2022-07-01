@@ -1,6 +1,8 @@
 # Gary Rustandi
 Personal Website & Portfolio
 
+Take a look on the website page [here](https://garyrustandi.github.io/Gary-Rustandi/)
+
 Data is my passion.
 I just realized this passion after entering workforce. Although my bachelor degree is very unrelated (Food Technology), it does not stop me to pursue my passion! Through all of the hardships I endure, who thought now that food technologist can become a data enthusiast?
 
