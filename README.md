@@ -1,5 +1,5 @@
 # Gary Rustandi
-Personal Website & Portfolio
+[Personal Website & Portfolio](https://garyrustandi.github.io/Gary-Rustandi/)
 
 Take a look on the website page [here](https://garyrustandi.github.io/Gary-Rustandi/)
 
